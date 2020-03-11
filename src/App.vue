@@ -1,5 +1,7 @@
 <template>
-  <div>我是根组件组件</div>
+  <div>
+    哈犯法我是根组件组件
+    </div>
 </template>
 
 <script>
